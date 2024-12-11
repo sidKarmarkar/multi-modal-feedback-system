@@ -1,5 +1,3 @@
----
-
 # Rich Feedback System for Text-to-Image Generation  
 **Developed by**:  
 - **Siddharth Hemant Karmarkar** (UNI: shk2195)  
